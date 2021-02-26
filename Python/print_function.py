@@ -4,7 +4,7 @@
 //Note that "..." represents the consecutive values in between.
 
 //Input Format
-//The first line contains an integer nn.
+//The first line contains an integer n.
 
 //Output Format
 //Print the list of integers from 1 through n as a string, without spaces.
