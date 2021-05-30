@@ -27,4 +27,4 @@ if __name__ == '__main__':
     for _ in range(int(input())):
         fracs.append(Fraction(*map(int, input().split())))
     result = product(fracs)
-    print(*result)
+    print(*resultm)
